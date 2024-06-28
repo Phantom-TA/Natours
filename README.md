@@ -1,4 +1,4 @@
-# This is a tour booking website 
+# Natours is a tour booking website 
 <br>
 
 # Deployed on netlify 
